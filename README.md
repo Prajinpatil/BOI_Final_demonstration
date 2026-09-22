@@ -13,10 +13,11 @@
 > **Source Code Access & Technical Demo**  
 > The core repository containing the proprietary Risk Fusion Engine and backend pipeline for **NIRIKSHAK-AI** is currently private. 
 > 
-> 🎥 **[Click here to watch the full technical video demo](https://drive.google.com/file/d/1_qx9oSk2ZH3ycJ9Adq07WHSBaUjBhvMD/view?usp=drive_link)** demonstrating the Generative AI reverse engineering, the dynamic VirusTotal sandbox execution, and the React frontend in real-time.
+> ### 🎥 **[Click here to watch the full technical video demo](https://drive.google.com/file/d/1_qx9oSk2ZH3ycJ9Adq07WHSBaUjBhvMD/view?usp=drive_link)** 
+> *Demonstrating the Generative AI reverse engineering, the dynamic VirusTotal sandbox execution, and the React frontend in real-time.*
 >
 > If you would like to review the source code, please email me at **patilprajin3@gmail.com** with your GitHub username. I will gladly grant you access.
-> ---
+---
 
 Welcome to **NIRIKSHAK-AI**, a state-of-the-art automated malware analysis platform built specifically to protect the digital financial ecosystem from zero-day Android Banking Trojans.
 
